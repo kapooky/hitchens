@@ -4,5 +4,4 @@ author: Arthur Conan Doyle
 category: literature
 layout: post
 ---
-
-Hello world! Ok we're back!
+This is my new blog post hello world. 
